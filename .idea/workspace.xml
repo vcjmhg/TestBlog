@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10f6c0d9-6223-4908-ba89-d2c25a4f1a10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_cjlib/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_cjlib/LaoZong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_cjlib/MiShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_jdk/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_jdk/GongNeng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_jdk/LaoZong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_jdk/MiShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/staticproxy/GongNeng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/staticproxy/KeHu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/staticproxy/LaoZong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/staticproxy/MiShu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,9 +23,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestBlog" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -28,12 +45,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1RB7pApjM5UPgXBqFeiuGfWzOyk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/proxy/dynamic_cjlib" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IntellJ_Workspace\TestBlog\src\main\java\proxy\dynamic_cjlib" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,9 +72,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Client (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.dynamic_cjlib.Client" />
+      <module name="TestBlog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.dynamic_cjlib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.dynamic_jdk.Client" />
+      <module name="TestBlog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.dynamic_jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeHu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.staticproxy.KeHu" />
+      <module name="TestBlog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.staticproxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,6 +168,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.KeHu" />
         <item itemvalue="Application.TestBoomFilter" />
       </list>
     </recent_temporary>
@@ -115,7 +185,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569128815740</updated>
-      <workItem from="1569128819697" duration="5081000" />
+      <workItem from="1569128819697" duration="8648000" />
+      <workItem from="1569719112314" duration="327000" />
+      <workItem from="1569913904001" duration="464000" />
+      <workItem from="1570437025182" duration="5218000" />
     </task>
     <servers />
   </component>
@@ -127,7 +200,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

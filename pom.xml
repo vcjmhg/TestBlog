@@ -13,6 +13,12 @@
             <artifactId>guava</artifactId>
             <version>22.0</version>
         </dependency>
+    <!-- cglib的依赖包-->
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>3.3.0</version>
+        </dependency>
     </dependencies>
 
 </project>
