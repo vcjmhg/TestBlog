@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10f6c0d9-6223-4908-ba89-d2c25a4f1a10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_cjlib/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_cjlib/LaoZong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_cjlib/MiShu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_jdk/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_jdk/GongNeng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_jdk/LaoZong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/dynamic_jdk/MiShu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/staticproxy/GongNeng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/staticproxy/KeHu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/staticproxy/LaoZong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/staticproxy/MiShu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +39,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/proxy/dynamic_cjlib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/files" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -188,7 +178,8 @@
       <workItem from="1569128819697" duration="8648000" />
       <workItem from="1569719112314" duration="327000" />
       <workItem from="1569913904001" duration="464000" />
-      <workItem from="1570437025182" duration="5218000" />
+      <workItem from="1570437025182" duration="9580000" />
+      <workItem from="1570770960012" duration="423000" />
     </task>
     <servers />
   </component>
